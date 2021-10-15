@@ -1,0 +1,14 @@
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.exe
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.deps.json
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.runtimeconfig.json
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.dll
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\bin\Debug\netcoreapp3.1\WarCardGame.pdb
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.dll
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.pdb
+C:\Users\ewalter\source\repos\WarCardGame\WarCardGame\obj\Debug\netcoreapp3.1\WarCardGame.genruntimeconfig.cache
